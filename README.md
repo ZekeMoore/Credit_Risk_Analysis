@@ -10,7 +10,7 @@
  * **Balanced Accuracy Score**: 64.63%
  * **Precision Score - High Risk**: 0.01
  * **Precision Score - Low Risk**: 1.00
- * **Recall Score Difference**: 0.08%
+ * **Recall Score Difference**: 0.13%
 
 ![stacked_launch_outcomes](https://github.com/ZekeMoore/Credit_Risk_Analysis/blob/main/Resources/RandomOversampler.png)
 
@@ -18,7 +18,7 @@
  * **Balanced Accuracy Score**: 64.68%
  * **Precision Score - High Risk**: 0.01
  * **Precision Score - Low Risk**: 1.00
- * **Recall Score Difference**: 0.06%
+ * **Recall Score Difference**: 0.03%
 
 ![stacked_launch_outcomes](https://github.com/ZekeMoore/Credit_Risk_Analysis/blob/main/Resources/SmoteOversampler.png)
 
@@ -26,7 +26,7 @@
  * **Balanced Accuracy Score**: 54.42%
  * **Precision Score - High Risk**: 0.01
  * **Precision Score - Low Risk**: 1.00
- * **Recall Score Difference**: 0.25%
+ * **Recall Score Difference**: 0.29%
 
 ![stacked_launch_outcomes](https://github.com/ZekeMoore/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroids.png)
 
@@ -34,7 +34,7 @@
  * **Balanced Accuracy Score**: 66.64%
  * **Precision Score - High Risk**: 0.01
  * **Precision Score - Low Risk**: 1.00
- * **Recall Score Difference**: 0.21%
+ * **Recall Score Difference**: 0.13%
 
 ![stacked_launch_outcomes](https://github.com/ZekeMoore/Credit_Risk_Analysis/blob/main/Resources/Smoteenn.png)
 
